@@ -6,3 +6,6 @@ My solutions for the Java Programming (I) MOOC from University of Helsinki.
 
 # Part 1
 The very basics of Java... Printing, comments, reading input, variables, some basic calculations and conditional statements
+
+# Part 2
+Solving problems and creation of patters to help in their solution. Loops, methods, etc...
