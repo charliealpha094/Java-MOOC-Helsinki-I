@@ -12,3 +12,6 @@ Solving problems and creation of patters to help in their solution. Loops, metho
 
 # Part 3
 Lists, arrays and strings...
+
+# Part 4
+Introduction to Object-Oriented Programming, managing objects in a list and working with files + plus reading it's data...
