@@ -15,3 +15,6 @@ Lists, arrays and strings...
 
 # Part 4
 Introduction to Object-Oriented Programming, managing objects in a list and working with files + plus reading it's data...
+
+# Part 5
+Object-Oriented Programming, removing repetitive code, primitive and reference variables, objects and references
